@@ -1,0 +1,1 @@
+Before read the projects code [plz read](https://cs50.harvard.edu/ai/2020/honesty/)
